@@ -7,7 +7,6 @@ This was created by me for my Twitch streams. Have a look if you're so inclined;
 - [flts.im/basicservice](https://flts.im/basicservice)
 - [BasicService on Twitch](https://twitch.tv/basicservice)
 - [BasicService on FlightSim.asia](https://flightsim.asia/u/basicservice)
-- [The FlightSim Blog](https://flightsim.blog/u/basicservice)
 
 This repo is made available under a GNU GPLv3 licence. See `LICENSE` for details.
 
