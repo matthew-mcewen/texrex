@@ -8,6 +8,7 @@ This was created by me for my Twitch streams. Have a look if you're so inclined;
 - [BasicService on Twitch](https://twitch.tv/basicservice)
 - [BasicService on FlightSim.asia](https://flightsim.asia/u/basicservice)
 
+If you end up using this for your ATC streams/videos, I would love it if you included any of the above 3 links. Thank you! 💖 
 This repo is made available under a GNU GPLv3 licence. See `LICENSE` for details.
 
 ## How To
