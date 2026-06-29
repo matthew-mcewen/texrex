@@ -15,6 +15,7 @@ This repo is made available under a GNU GPLv3 licence. See `LICENSE` for details
 Requirements:
 1. Python
 2. OBS with websocket server enabled. (In OBS, open Tools -> Websockets)
+3. TrackAudio (necessary for the RX indicator to work. You may use TexRex with any other AFV client, but you will only have the TX/PTT indicator).
 
 Steps:
 1. Download the source / Clone this repo
