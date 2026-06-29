@@ -4,9 +4,9 @@ Display a TX/RX indicator source in OBS with TrackAudio (for VATSIM ATC).
 My own indicator images are included in `./img`, which you can add directly into OBS as Image Sources. Feel free to use your own instead; TexRex simply triggers a named source.
 
 This was created by me for my Twitch streams. Have a look if you're so inclined; and all else that I make for the Internet can be found below:
+- [BasicService on FlightSim.asia](https://flightsim.asia/u/basicservice)
 - [flts.im/basicservice](https://flts.im/basicservice)
 - [BasicService on Twitch](https://twitch.tv/basicservice)
-- [BasicService on FlightSim.asia](https://flightsim.asia/u/basicservice)
 
 If you end up using this for your ATC streams/videos, I would love it if you included any of the above 3 links. Thank you! 💖 
 This repo is made available under a GNU GPLv3 licence. See `LICENSE` for details.
